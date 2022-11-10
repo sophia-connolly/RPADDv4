@@ -1,0 +1,6 @@
+﻿Invoice_No,Item_No,TimeStamp,Status
+100,4,4/19/2022 10:35,Success
+104,4,4/19/2022 10:38,Success
+NA,NA,4/19/2022 10:41,Failed: No files to process
+NA,NA,4/20/2022 22:42,Failed: Folder is empty
+" 100",4,04/26/2022 09:40:14,Success
